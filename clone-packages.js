@@ -18,9 +18,15 @@ for (const entry of manifest) {
 
                     console.log(`Adding missing link to overlay for ${pkge}...`)
 
+                    try {
+                        fs.rmSync(`./core/${pkge}`);
+                    } catch { }
 
-                    fs.symlinkSync(`./overlay/core/${pkge}/`, `./core/${pkge}/`);
-                } catch { }
+                    child_process.execSync(`cd ./core && ln -s ../overlay/core/${pkge} ${pkge}`)
+
+                } catch (error) {
+                    console.error(error);
+                }
             }
         }
     } else if (entry.type === 'git') {
