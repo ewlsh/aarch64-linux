@@ -1,0 +1,513 @@
+[submodule "core/acl"]
+	path = core/acl
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/acl.git
+[submodule "core/archlinux-keyring"]
+	path = core/archlinux-keyring
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/archlinux-keyring.git
+[submodule "core/argon2"]
+	path = core/argon2
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/argon2.git
+[submodule "core/attr"]
+	path = core/attr
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/attr.git
+[submodule "core/audit"]
+	path = core/audit
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/audit.git
+[submodule "core/autoconf"]
+	path = core/autoconf
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/autoconf.git
+[submodule "core/automake"]
+	path = core/automake
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/automake.git
+[submodule "core/b43-fwcutter"]
+	path = core/b43-fwcutter
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/b43-fwcutter.git
+[submodule "core/base"]
+	path = core/base
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/base.git
+[submodule "core/base-devel"]
+	path = core/base-devel
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/base-devel.git
+[submodule "core/bash"]
+	path = core/bash
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/bash.git
+[submodule "core/bison"]
+	path = core/bison
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/bison.git
+[submodule "core/brotli"]
+	path = core/brotli
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/brotli.git
+[submodule "core/btrfs-progs"]
+	path = core/btrfs-progs
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/btrfs-progs.git
+[submodule "core/bzip2"]
+	path = core/bzip2
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/bzip2.git
+[submodule "core/coreutils"]
+	path = core/coreutils
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/coreutils.git
+[submodule "core/cracklib"]
+	path = core/cracklib
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/cracklib.git
+[submodule "core/cronie"]
+	path = core/cronie
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/cronie.git
+[submodule "core/cryptsetup"]
+	path = core/cryptsetup
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/cryptsetup.git
+[submodule "core/curl"]
+	path = core/curl
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/curl.git
+[submodule "core/dash"]
+	path = core/dash
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/dash.git
+[submodule "core/db5.3"]
+	path = core/db5.3
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/db5.3.git
+[submodule "core/db"]
+	path = core/db
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/db.git
+[submodule "core/dbus"]
+	path = core/dbus
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/dbus.git
+[submodule "core/debugedit"]
+	path = core/debugedit
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/debugedit.git
+[submodule "core/dhcpcd"]
+	path = core/dhcpcd
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/dhcpcd.git
+[submodule "core/dialog"]
+	path = core/dialog
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/dialog.git
+[submodule "core/diffutils"]
+	path = core/diffutils
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/diffutils.git
+[submodule "core/dmraid"]
+	path = core/dmraid
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/dmraid.git
+[submodule "core/dnssec-anchors"]
+	path = core/dnssec-anchors
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/dnssec-anchors.git
+[submodule "core/dosfstools"]
+	path = core/dosfstools
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/dosfstools.git
+[submodule "core/e2fsprogs"]
+	path = core/e2fsprogs
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/e2fsprogs.git
+[submodule "core/ed"]
+	path = core/ed
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/ed.git
+[submodule "core/efibootmgr"]
+	path = core/efibootmgr
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/efibootmgr.git
+[submodule "core/efivar"]
+	path = core/efivar
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/efivar.git
+[submodule "core/expat"]
+	path = core/expat
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/expat.git
+[submodule "core/fakeroot"]
+	path = core/fakeroot
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/fakeroot.git
+[submodule "core/findutils"]
+	path = core/findutils
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/findutils.git
+[submodule "core/flex"]
+	path = core/flex
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/flex.git
+[submodule "core/gawk"]
+	path = core/gawk
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/gawk.git
+[submodule "core/gc"]
+	path = core/gc
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/gc.git
+[submodule "core/gdbm"]
+	path = core/gdbm
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/gdbm.git
+[submodule "core/gettext"]
+	path = core/gettext
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/gettext.git
+[submodule "core/glib2"]
+	path = core/glib2
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/glib2.git
+[submodule "core/gmp"]
+	path = core/gmp
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/gmp.git
+[submodule "core/gnupg"]
+	path = core/gnupg
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/gnupg.git
+[submodule "core/gpm"]
+	path = core/gpm
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/gpm.git
+[submodule "core/grep"]
+	path = core/grep
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/grep.git
+[submodule "core/groff"]
+	path = core/groff
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/groff.git
+[submodule "core/gssproxy"]
+	path = core/gssproxy
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/gssproxy.git
+[submodule "core/guile"]
+	path = core/guile
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/guile.git
+[submodule "core/gzip"]
+	path = core/gzip
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/gzip.git
+[submodule "core/hdparm"]
+	path = core/hdparm
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/hdparm.git
+[submodule "core/hwdata"]
+	path = core/hwdata
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/hwdata.git
+[submodule "core/iana-etc"]
+	path = core/iana-etc
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/iana-etc.git
+[submodule "core/inetutils"]
+	path = core/inetutils
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/inetutils.git
+[submodule "core/iproute2"]
+	path = core/iproute2
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/iproute2.git
+[submodule "core/iptables"]
+	path = core/iptables
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/iptables.git
+[submodule "core/iputils"]
+	path = core/iputils
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/iputils.git
+[submodule "core/ipw2100-fw"]
+	path = core/ipw2100-fw
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/ipw2100-fw.git
+[submodule "core/ipw2200-fw"]
+	path = core/ipw2200-fw
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/ipw2200-fw.git
+[submodule "core/iw"]
+	path = core/iw
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/iw.git
+[submodule "core/jansson"]
+	path = core/jansson
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/jansson.git
+[submodule "core/jfsutils"]
+	path = core/jfsutils
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/jfsutils.git
+[submodule "core/json-c"]
+	path = core/json-c
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/json-c.git
+[submodule "core/kbd"]
+	path = core/kbd
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/kbd.git
+[submodule "core/keyutils"]
+	path = core/keyutils
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/keyutils.git
+[submodule "core/kmod"]
+	path = core/kmod
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/kmod.git
+[submodule "core/krb5"]
+	path = core/krb5
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/krb5.git
+[submodule "core/ldns"]
+	path = core/ldns
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/ldns.git
+[submodule "core/less"]
+	path = core/less
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/less.git
+[submodule "core/libarchive"]
+	path = core/libarchive
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libarchive.git
+[submodule "core/libassuan"]
+	path = core/libassuan
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libassuan.git
+[submodule "core/libbpf"]
+	path = core/libbpf
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libbpf.git
+[submodule "core/libcap"]
+	path = core/libcap
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libcap.git
+[submodule "core/libcap-ng"]
+	path = core/libcap-ng
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libcap-ng.git
+[submodule "core/libedit"]
+	path = core/libedit
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libedit.git
+[submodule "core/libevent"]
+	path = core/libevent
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libevent.git
+[submodule "core/libffi"]
+	path = core/libffi
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libffi.git
+[submodule "core/libgcrypt"]
+	path = core/libgcrypt
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libgcrypt.git
+[submodule "core/libgpg-error"]
+	path = core/libgpg-error
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libgpg-error.git
+[submodule "core/libgssglue"]
+	path = core/libgssglue
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libgssglue.git
+[submodule "core/libidn2"]
+	path = core/libidn2
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libidn2.git
+[submodule "core/libinih"]
+	path = core/libinih
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libinih.git
+[submodule "core/libisl"]
+	path = core/libisl
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libisl.git
+[submodule "core/libksba"]
+	path = core/libksba
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libksba.git
+[submodule "core/libmicrohttpd"]
+	path = core/libmicrohttpd
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libmicrohttpd.git
+[submodule "core/libmnl"]
+	path = core/libmnl
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libmnl.git
+[submodule "core/libmpc"]
+	path = core/libmpc
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libmpc.git
+[submodule "core/libnetfilter_conntrack"]
+	path = core/libnetfilter_conntrack
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libnetfilter_conntrack.git
+[submodule "core/libnfnetlink"]
+	path = core/libnfnetlink
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libnfnetlink.git
+[submodule "core/libnftnl"]
+	path = core/libnftnl
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libnftnl.git
+[submodule "core/libnghttp2"]
+	path = core/libnghttp2
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libnghttp2.git
+[submodule "core/libnl"]
+	path = core/libnl
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libnl.git
+[submodule "core/libnsl"]
+	path = core/libnsl
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libnsl.git
+[submodule "core/libpcap"]
+	path = core/libpcap
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libpcap.git
+[submodule "core/libpipeline"]
+	path = core/libpipeline
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libpipeline.git
+[submodule "core/librpcsecgss"]
+	path = core/librpcsecgss
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/librpcsecgss.git
+[submodule "core/libsasl"]
+	path = core/libsasl
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libsasl.git
+[submodule "core/libsecret"]
+	path = core/libsecret
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libsecret.git
+[submodule "core/libssh2"]
+	path = core/libssh2
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libssh2.git
+[submodule "core/libtasn1"]
+	path = core/libtasn1
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libtasn1.git
+[submodule "core/libtirpc"]
+	path = core/libtirpc
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libtirpc.git
+[submodule "core/libunistring"]
+	path = core/libunistring
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libunistring.git
+[submodule "core/libusb"]
+	path = core/libusb
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libusb.git
+[submodule "core/libverto"]
+	path = core/libverto
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libverto.git
+[submodule "core/libxcrypt"]
+	path = core/libxcrypt
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libxcrypt.git
+[submodule "core/libxml2"]
+	path = core/libxml2
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/libxml2.git
+[submodule "core/licenses"]
+	path = core/licenses
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/licenses.git
+[submodule "core/links"]
+	path = core/links
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/links.git
+[submodule "core/logrotate"]
+	path = core/logrotate
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/logrotate.git
+[submodule "core/lvm2"]
+	path = core/lvm2
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/lvm2.git
+[submodule "core/lz4"]
+	path = core/lz4
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/lz4.git
+[submodule "core/lzo"]
+	path = core/lzo
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/lzo.git
+[submodule "core/m4"]
+	path = core/m4
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/m4.git
+[submodule "core/make"]
+	path = core/make
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/make.git
+[submodule "core/man-db"]
+	path = core/man-db
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/man-db.git
+[submodule "core/man-pages"]
+	path = core/man-pages
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/man-pages.git
+[submodule "core/mdadm"]
+	path = core/mdadm
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/mdadm.git
+[submodule "core/mkinitcpio-nfs-utils"]
+	path = core/mkinitcpio-nfs-utils
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/mkinitcpio-nfs-utils.git
+[submodule "core/mlocate"]
+	path = core/mlocate
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/mlocate.git
+[submodule "core/mpfr"]
+	path = core/mpfr
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/mpfr.git
+[submodule "core/nano"]
+	path = core/nano
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/nano.git
+[submodule "core/ncurses"]
+	path = core/ncurses
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/ncurses.git
+[submodule "core/nettle"]
+	path = core/nettle
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/nettle.git
+[submodule "core/net-tools"]
+	path = core/net-tools
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/net-tools.git
+[submodule "core/nfsidmap"]
+	path = core/nfsidmap
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/nfsidmap.git
+[submodule "core/nilfs-utils"]
+	path = core/nilfs-utils
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/nilfs-utils.git
+[submodule "core/npth"]
+	path = core/npth
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/npth.git
+[submodule "core/openldap"]
+	path = core/openldap
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/openldap.git
+[submodule "core/openresolv"]
+	path = core/openresolv
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/openresolv.git
+[submodule "core/openssh"]
+	path = core/openssh
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/openssh.git
+[submodule "core/p11-kit"]
+	path = core/p11-kit
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/p11-kit.git
+[submodule "core/pam"]
+	path = core/pam
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/pam.git
+[submodule "core/pambase"]
+	path = core/pambase
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/pambase.git
+[submodule "core/patch"]
+	path = core/patch
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/patch.git
+[submodule "core/pciutils"]
+	path = core/pciutils
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/pciutils.git
+[submodule "core/pcre2"]
+	path = core/pcre2
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/pcre2.git
+[submodule "core/pcre"]
+	path = core/pcre
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/pcre.git
+[submodule "core/perl"]
+	path = core/perl
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/perl.git
+[submodule "core/pinentry"]
+	path = core/pinentry
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/pinentry.git
+[submodule "core/pkgconf"]
+	path = core/pkgconf
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/pkgconf.git
+[submodule "core/popt"]
+	path = core/popt
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/popt.git
+[submodule "core/ppp"]
+	path = core/ppp
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/ppp.git
+[submodule "core/pptpclient"]
+	path = core/pptpclient
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/pptpclient.git
+[submodule "core/procps-ng"]
+	path = core/procps-ng
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/procps-ng.git
+[submodule "core/psmisc"]
+	path = core/psmisc
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/psmisc.git
+[submodule "core/reiserfsprogs"]
+	path = core/reiserfsprogs
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/reiserfsprogs.git
+[submodule "core/rpcbind"]
+	path = core/rpcbind
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/rpcbind.git
+[submodule "core/run-parts"]
+	path = core/run-parts
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/run-parts.git
+[submodule "core/sdparm"]
+	path = core/sdparm
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/sdparm.git
+[submodule "core/sed"]
+	path = core/sed
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/sed.git
+[submodule "core/s-nail"]
+	path = core/s-nail
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/s-nail.git
+[submodule "core/sqlite"]
+	path = core/sqlite
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/sqlite.git
+[submodule "core/sudo"]
+	path = core/sudo
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/sudo.git
+[submodule "core/sysfsutils"]
+	path = core/sysfsutils
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/sysfsutils.git
+[submodule "core/tar"]
+	path = core/tar
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/tar.git
+[submodule "core/thin-provisioning-tools"]
+	path = core/thin-provisioning-tools
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/thin-provisioning-tools.git
+[submodule "core/tpm2-tss"]
+	path = core/tpm2-tss
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/tpm2-tss.git
+[submodule "core/traceroute"]
+	path = core/traceroute
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/traceroute.git
+[submodule "core/tzdata"]
+	path = core/tzdata
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/tzdata.git
+[submodule "core/unixodbc"]
+	path = core/unixodbc
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/unixodbc.git
+[submodule "core/usbutils"]
+	path = core/usbutils
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/usbutils.git
+[submodule "core/util-linux"]
+	path = core/util-linux
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/util-linux.git
+[submodule "core/vi"]
+	path = core/vi
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/vi.git
+[submodule "core/which"]
+	path = core/which
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/which.git
+[submodule "core/wireless-regdb"]
+	path = core/wireless-regdb
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/wireless-regdb.git
+[submodule "core/wpa_supplicant"]
+	path = core/wpa_supplicant
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/wpa_supplicant.git
+[submodule "core/xz"]
+	path = core/xz
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/xz.git
+[submodule "core/zlib"]
+	path = core/zlib
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/zlib.git
+[submodule "core/zstd"]
+	path = core/zstd
+	url = https://gitlab.archlinux.org/archlinux/packaging/packages/zstd.git

@@ -27,7 +27,7 @@ for (const entry of manifest) {
         try {
             if (!fs.existsSync(`./core/${pkge}/PKGBUILD`)) {
                 console.log(`Cloning ${pkge}...`);
-                child_process.execSync(`git submodule add https://gitlab.archlinux.org/archlinux/packaging/packages/${pkge}.git ./core/${pkge}`, {
+                child_process.execSync(`git submodule add --force https://gitlab.archlinux.org/archlinux/packaging/packages/${pkge}.git ./core/${pkge}`, {
                     env: {
                         GIT_TERMINAL_PROMPT: 0
                     }
