@@ -1,0 +1,1027 @@
+[
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "acl"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "archlinuxarm-keyring"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "archlinux-keyring"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "argon2"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "attr"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "audit"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "autoconf"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "automake"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "b43-fwcutter"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "base"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "base-devel"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "bash"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "binutils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "bison"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "brotli"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "btrfs-progs"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "bzip2"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "coreutils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "cracklib"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "cronie"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "cryptsetup"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "curl"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "dash"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "db5.3"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "db"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "dbus"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "debugedit"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "dhcpcd"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "dialog"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "diffutils"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "ding-libs"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "dmraid"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "dnssec-anchors"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "dosfstools"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "e2fsprogs"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "ed"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "efibootmgr"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "efivar"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "elfutils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "expat"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "fakeroot"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "file"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "filesystem"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "findutils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "flex"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "gawk"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "gc"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "gcc"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "gdbm"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "gettext"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "glib2"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "glibc"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "gmp"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "gnupg"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "gnutls"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "gpgme"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "gpm"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "grep"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "groff"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "grub"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "gssproxy"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "guile"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "gzip"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "hdparm"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "hwdata"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "iana-etc"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "icu"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "inetutils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "iproute2"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "iptables"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "iputils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "ipw2100-fw"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "ipw2200-fw"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "iw"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "jansson"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "jfsutils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "json-c"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "kbd"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "keyutils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "kmod"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "krb5"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "ldns"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "less"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "libaio"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libarchive"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libassuan"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libbpf"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libcap"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libcap-ng"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libedit"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libevent"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libffi"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libgcrypt"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libgpg-error"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libgssglue"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libidn2"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libinih"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libisl"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libksba"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libmicrohttpd"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libmnl"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libmpc"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libnetfilter_conntrack"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libnfnetlink"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libnftnl"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libnghttp2"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libnl"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libnsl"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libpcap"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libpipeline"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "libpsl"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "librpcsecgss"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libsasl"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "libseccomp"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libsecret"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libssh2"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libtasn1"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libtirpc"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "libtool"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libunistring"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libusb"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libverto"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libxcrypt"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "libxml2"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "licenses"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "links"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "linux-aarch64"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "logrotate"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "lvm2"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "lz4"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "lzo"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "m4"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "make"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "man-db"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "man-pages"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "mdadm"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "mkinitcpio"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "mkinitcpio-busybox"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "mkinitcpio-nfs-utils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "mlocate"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "mpfr"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "nano"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "ncurses"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "nettle"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "net-tools"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "nfsidmap"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "nfs-utils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "nilfs-utils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "npth"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "nspr"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "nss"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "openldap"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "openresolv"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "openssh"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "openssl"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "openssl"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "openssl"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "openssl-cryptodev"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "p11-kit"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "pacman"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "pacman-mirrorlist"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "pam"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "pambase"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "patch"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "pciutils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "pcre2"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "pcre"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "perl"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "pinentry"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "pkgconf"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "popt"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "ppp"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "pptpclient"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "procps-ng"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "psmisc"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "python"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "readline"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "reiserfsprogs"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "rpcbind"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "run-parts"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "sdparm"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "sed"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "shadow"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "s-nail"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "sqlite"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "sudo"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "sysfsutils"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "systemd"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "tar"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "texinfo"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "thin-provisioning-tools"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "tpm2-tss"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "traceroute"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "tzdata"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "unixodbc"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "usbutils"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "util-linux"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "vi"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "which"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "wireless-regdb"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "wpa_supplicant"
+    },
+    {
+        "type": "overlay",
+        "db": "core",
+        "packageName": "xfsprogs"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "xz"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "zlib"
+    },
+    {
+        "type": "git",
+        "db": "core",
+        "packageName": "zstd"
+    }
+]
