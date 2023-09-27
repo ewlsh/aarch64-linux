@@ -511,3 +511,6 @@
 [submodule "core/zstd"]
 	path = core/zstd
 	url = https://gitlab.archlinux.org/archlinux/packaging/packages/zstd.git
+[submodule "overlay"]
+	path = overlay
+	url = git@github.com:ewlsh/PKGBUILDs.git
